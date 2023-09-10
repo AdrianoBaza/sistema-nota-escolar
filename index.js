@@ -13,7 +13,7 @@ let mediaEscola = 7;
 let totalProvas;
 
 console.log('=====  SOFTEX - FAP - 2023 | BACKEND =====');
-console.log('===== SISTEMA DE CONTROLE PEDAGÓGICO =====');
+console.log('=====     SISTEMA DE NOTA ESCOLAR    =====');
 console.log('===== Consulta  Situação  do  Aluno  =====');
 let nome = input.question('Nome: ');
 for (let i = 1; i <= 3; i++) {
@@ -42,7 +42,7 @@ let mediaEscolar = 7;
 let quantidadeProvas;
 
 console.log('=====  SOFTEX - FAP - 2023 | BACKEND =====');
-console.log('===== SISTEMA DE CONTROLE PEDAGÓGICO =====');
+console.log('=====     SISTEMA DE NOTA ESCOLAR    =====');
 console.log('=====  Consulta Nota para Aprovação  =====');
 
 let nome = input.question('Nome: ');
